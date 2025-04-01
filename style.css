@@ -1,0 +1,12 @@
+body {margin:50px;background-color:#222831;color:#EEEEEE;font-family:"outfit";}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {font-family: "Abril Fatface";font-size:80px;}
+h2 {margin-bottom:30px;}
+h4 {margin-bottom:70px;}
+u {text-decoration-color:#76ABAE;}
+a {color:#EEEEEE;text-decoration-color:#76ABAE;}
