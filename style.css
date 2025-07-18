@@ -1,4 +1,4 @@
-body {margin:50px 15px;background-color:#222831;color:#EEEEEE;font-family:"outfit";}
+body {margin-top:40px;color:#000;background-color:#EEEEEE;font-family:"outfit";}
 .bebas-neue-regular {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
@@ -8,6 +8,15 @@ body {margin:50px 15px;background-color:#222831;color:#EEEEEE;font-family:"outfi
 h1 {font-family: "Abril Fatface";font-size:80px;}
 h2 {margin-bottom:30px;}
 h4 {margin-bottom:70px;}
-u {text-decoration-color:#76ABAE;}
-a {color:#EEEEEE;text-decoration-color:#76ABAE;}
-button a {color:#222831;}
+u {text-decoration-color:#FFFF00;}
+a {background-color:#FFFF00; color:#000;text-decoration-color:#FFFF00;}
+
+.callout {
+  background-color:#000;
+  color:#EEEEEE;
+  margin-top: 70px;
+}
+.callout a {
+  color: #000;
+  text-decoration-color:#000;
+}
